@@ -12,7 +12,7 @@ __How the dataset are about Brazil, I plotted the graphics with language in Port
 
 - In this project, I analyze the distribution of money for social classes.
 - What class make more money?
-- Long-time study influences??
+- Do years of study influence to a higher salary???
 - Which states pay more?
 
 ![grafic](https://github.com/Marcus-Bernard0/Data-Science-projects/blob/master/1%20-%20Projeto%20PNAD/cor.png?raw=true)
