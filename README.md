@@ -1,4 +1,4 @@
-# Wellcome to my portifolio. By the way, follow me in [GitHub](https://github.com/Marcus-Bernard0)
+# Welcome to my portfolio. By the way, follow me in [GitHub](https://github.com/Marcus-Bernard0)
 
 ## [Project 1: National Survey by Household Sample in Brazil - (PNAD)](https://github.com/Marcus-Bernard0/Data-Science-projects/tree/master/1%20-%20Projeto%20PNAD)
 (under development)
